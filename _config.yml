@@ -1,0 +1,3 @@
+title: SearchBlueprint publish test
+description: End-to-end verification target for the publishing pipeline.
+theme: jekyll-theme-minimal
