@@ -3,7 +3,7 @@ title: "SEO Automation Guide: What to Automate (and What Not To)"
 slug: "seo-automation-guide-what-to-automate-and-what-not-to"
 description: "Photo by Mari M on Pexels (Pexels License) SEO automation means using software to handle repetitive optimization work. That includes keyword research, rank..."
 keyword: "SEO automation guide"
-date: "2026-07-31T16:26:44.635Z"
+date: "2026-07-31T16:27:48.517Z"
 ---
 # SEO Automation Guide: What to Automate (and What Not To)
 
